@@ -64,6 +64,7 @@ I'm a developer who's passionate about building mobile experiences that people a
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AUSUFO1&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AUSUFO1&theme=radical&hide_border=true)
     
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AUSUFO1&layout=compact&theme=radical&hide_border=true)
 
