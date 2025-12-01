@@ -1,6 +1,6 @@
 # Hey There 👋, I'm Yusuf
 
-## A Passionate Web Developer specialized in building Modern, Impactful, and User-Centric Solutions with a Focus on Excellence and Innovation.
+## A Front-End Engineer Building Modern, Performant, and User-Centric Web & Mobile Applications with a Focus on Excellence and Innovation.
 
 <div align="center">
   
@@ -12,50 +12,69 @@
 
 ### 💼 About Me
 
-I'm a developer who's passionate about building mobile experiences that people actually enjoy using. My mission? To write **clean, scalable code** that solves real problems while continuously leveling up my skills.
+I'm a front-end engineer who specializes in crafting exceptional user experiences across web and mobile platforms. My mission? To build **responsive, accessible, and blazing-fast interfaces** that users love while writing clean, maintainable code.
 
 - 🔭 Currently supporting the **National Gallery of Art** with Web Design and Management
-- 💼 Web Developer & WordPress Manager at **IWeb.Ng** (4 years)
-- 🚀 Focused on turning designs into polished, high-performance mobile applications
-- 🎯 All about component-driven architecture, smooth animations, and pixel-perfect UIs
-- 💬 Ask me about: **React Native, React.js, Mobile Development, API Integration**
-- ⚡ Fun fact: I believe the best code is code that doesn't need a manual. But when it does, I write one.
+- 💼 Front-End Engineer & WordPress Manager at **IWeb.Ng** (4 years)
+- 🚀 Building production-ready applications with **Next.js**, **React Native**, and modern web technologies
+- 🎯 Specialized in component architecture, performance optimization, and pixel-perfect implementations
+- 💬 Ask me about: **Next.js, React Native, TypeScript, Modern CSS, Frontend Architecture**
+- ⚡ Fun fact: I believe the best UI is one that users don't have to think about.
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### Mobile Development
+#### Frontend Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+#### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+#### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-#### State Management & APIs
+#### State Management & Data Fetching
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+#### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+#### Deployment & Hosting
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
-### 💡 Why Work With Me?
+### 💡 What I Bring to the Table
 
-- **Code Quality Matters**: I write maintainable, scalable code that future-me won't hate
-- **Real Solutions**: Not just pushing features – building products that actually work
-- **Team Player**: Good communication is just as important as good code
-- **Documentation**: I document my work and ask questions when I need clarity
-- **User-Focused**: Every tap, swipe, and scroll should feel just right
+- **Modern Frontend Architecture**: Component-driven development with React and Next.js
+- **Performance Optimization**: Code splitting, lazy loading, and optimized bundle sizes
+- **Responsive Design**: Mobile-first, accessible interfaces that work everywhere
+- **Type Safety**: TypeScript for catching bugs before they reach production
+- **State Management**: Redux, Context API, and React Query for complex data flows
+- **API Integration**: Seamless connection between frontend and backend services
+- **Clean Code**: Maintainable, well-documented, and scalable solutions
 
 ---
 
@@ -72,18 +91,27 @@ I'm a developer who's passionate about building mobile experiences that people a
 
 ---
 
-### 📂 Featured Projects
+### 🚀 What I Build
 
-> Most of my work lives in **private repositories** for production applications I'm building with professional teams. I'm focused on shipping real features that real users interact with – the kind of code that matters.
+- **Modern Web Applications** with Next.js (SSR/SSG/ISR)
+- **Cross-Platform Mobile Apps** using React Native & Expo
+- **E-Commerce Platforms** with seamless payment integrations
+- **Content Management Interfaces** for WordPress and custom CMS
+- **Interactive Dashboards** with real-time data visualization
+- **Progressive Web Apps** that feel native on any device
+
+> Most of my work lives in **private repositories** for production applications I'm building with professional teams. I'm focused on shipping features that real users interact with daily – the kind of code that makes a difference.
 
 ---
 
 ### 🏆 Achievements
 
-🎯 **4 Years** as Web Developer & WordPress Manager at IWeb.Ng  
+🎯 **4 Years** as Front-End Engineer & WordPress Manager at IWeb.Ng  
 🎨 Currently supporting **National Gallery of Art** with Web Design  
-📱 Specialized in **React Native** cross-platform development  
-⚡ Built mobile apps that handle complex user interactions seamlessly
+📱 Specialized in **React Native** cross-platform mobile development  
+⚡ Building production applications with **Next.js** and **TypeScript**  
+🎨 Converting complex designs into pixel-perfect, responsive interfaces  
+🚀 Optimizing web performance for 60fps+ user experiences
 
 ---
 
@@ -101,11 +129,11 @@ I'm a developer who's passionate about building mobile experiences that people a
 
 <div align="center">
   
-  ### 💻 "Clean code today, happy developer tomorrow"
+  ### 💻 "Great UI is invisible. Great code is readable."
   
-  *Feel free to reach out if you want to collaborate, discuss mobile development, or just talk tech.*  
-  *I'm always down to connect with fellow developers and learn from the community.*
+  *Open to collaborating on frontend projects, discussing modern web architecture, or just talking tech.*  
+  *Always learning, always building, always shipping.*
   
-  **Let's build something great! 🚀**
+  **Let's craft something beautiful! 🚀**
 
 </div>
