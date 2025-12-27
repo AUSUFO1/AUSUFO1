@@ -6,7 +6,7 @@ I have a passion for building modern, performant, and user-centric interfaces.
 
 ## 💫 About Me
 - 🌱 Currently building production-ready applications with **Next.js, React Native, and TypeScript**.  
-- 💻 All my projects are available on my [GitHub](https://github.com/AUSUFO1).  
+- 💻 All my projects are available on my [GitHub]([https://github.com/AUSUFO1](https://github.com/AUSUFO1?tab=repositories).  
 - 🔤 Looking for opportunities to work on cutting-edge frontend projects.  
 - 🔭 Currently improving **Next.js, React Native, and component architecture** skills.  
 - 📫 Reach me via [email](mailto:oabubakar2019@gmail.com).  
