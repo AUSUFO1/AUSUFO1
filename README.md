@@ -1,16 +1,6 @@
 # Hello 👋, I'm Yusuf
 Front-End Engineer | Web & Mobile Applications Enthusiast  
-I have a passion for building modern, performant, and user-centric interfaces.
-
----
-
-## 💫 About Me
-- 🌱 Currently building production-ready applications with **Next.js, React Native, and TypeScript**.  
-- 💻 All my projects are available on my [GitHub](https://github.com/AUSUFO1).
-- 🔤 Looking for opportunities to work on cutting-edge frontend projects.  
-- 🔭 Currently improving **Next.js, React Native, and component architecture** skills.  
-- 📫 Reach me via [email](mailto:oabubakar2019@gmail.com).  
-- ⚡ Fun fact: I believe the best UI is **invisible, intuitive, and seamless**. 
+I have a flair for building modern, performant, and user-centric interfaces.
 
 ---
 
